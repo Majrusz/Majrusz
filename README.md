@@ -8,7 +8,7 @@ I am a computer science student from Poland and I am currently working on:
 ### Minecraft modificiations using [Minecraft Forge API](https://github.com/MinecraftForge) (with over ![](http://cf.way2muchnoise.eu/author/full_Majrusz17_downloads.svg) in total!) (Java)
 - [Majrusz Library](https://github.com/Majrusz/MajruszLibrary)
 - [Majrusz's Progressive Difficulty](https://github.com/Majrusz/MajruszsProgressiveDifficultyMod)
-- [Wonderful Enchantments](https://github.com/Majrusz/WonderfulEnchantmentsMod)
+- [Majrusz's Enchantments](https://github.com/Majrusz/MajruszsEnchantmentsMod)
 - [Majrusz's Accessories](https://github.com/Majrusz/MajruszsAccessories)
 
 <!--
