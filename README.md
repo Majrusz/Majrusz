@@ -1,9 +1,6 @@
 # Hello there 👋
 
-I am a computer science student from Poland and I am currently working on:
-
-### My own simple 3D games in [Unreal Engine 4](https://www.unrealengine.com/en-US/) (C++)
-- TBA
+Do you wonder what I do in my spare time? Well, here's a list:
 
 ### Minecraft modificiations using [Minecraft Forge API](https://github.com/MinecraftForge) (with over ![](http://cf.way2muchnoise.eu/author/full_Majrusz17_downloads.svg) in total!) (Java)
 - [Majrusz Library](https://github.com/Majrusz/MajruszLibrary)
