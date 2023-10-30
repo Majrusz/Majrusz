@@ -2,8 +2,8 @@
 
 Do you wonder what I do in my spare time? Well, let me show you:
 
-### Minecraft modificiations using [Minecraft Forge API](https://github.com/MinecraftForge) (with over ![](http://cf.way2muchnoise.eu/author/full_Majrusz17_downloads.svg) in total!)
-- [Majrusz Library](https://github.com/Majrusz/MajruszLibrary) _(common functionalities for my other modifications)_
+### Minecraft modificiations ![](http://cf.way2muchnoise.eu/author/full_Majrusz17_downloads.svg)
+- [Majrusz Library](https://github.com/Majrusz/MajruszLibrary)
 - [Majrusz's Progressive Difficulty](https://github.com/Majrusz/MajruszsProgressiveDifficultyMod)
 - [Majrusz's Enchantments](https://github.com/Majrusz/MajruszsEnchantmentsMod)
 - [Majrusz's Accessories](https://github.com/Majrusz/MajruszsAccessories)
